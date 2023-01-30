@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **omkarvaidya0504@gmaol.com**
 
-- ⚡ Fun fact **I am funny😉**
+- ⚡ Fun fact **I am funny😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
