@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **omkarvaidya0504@gmaol.com**
 
-- ⚡ Fun fact **I am funny😁**
+- ⚡ Fun fact **I am funny😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkar-s-vaidya&show_icons=true&locale=en" alt="omkar-s-vaidya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar-s-vaidya&" alt="omkar-s-vaidya" /></p>
+
 
